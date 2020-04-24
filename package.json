@@ -1,0 +1,10 @@
+{
+  "name": "crud-tarefas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "nathaliacosim <nathalia.cosim@novaandradina.org>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
